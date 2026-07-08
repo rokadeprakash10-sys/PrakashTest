@@ -12,3 +12,4 @@ D:\Project\Training\Capstone_2\SampleApplication\PrakashTest\Calculator\obj\Debu
 D:\Project\Training\Capstone_2\SampleApplication\PrakashTest\Calculator\obj\Debug\net8.0\Calculator.pdb
 D:\Project\Training\Capstone_2\SampleApplication\PrakashTest\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
 D:\Project\Training\Capstone_2\SampleApplication\PrakashTest\Calculator\obj\Debug\net8.0\ref\Calculator.dll
+d:\Project\Training\Capstone_2\SampleApplication\PrakashTest\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
