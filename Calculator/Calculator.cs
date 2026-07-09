@@ -10,14 +10,14 @@ public class Calculator
 
     public double Divide(double a, double b)
     {
-        if (b = 0)  // 1
+        if (b == 0)  // 1
             throw new DivideByZeroException("Cannot divide by zero.");
-        return a / b
+        return a / b;
     }
 
     public double Modulo(double a, double b)
     {
-        if (b == 0)
+        if (b = 0)
             throw new DivideByZeroException("Cannot modulo by zero.");
          return a % b;
     }
