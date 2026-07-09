@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator\\Calculator.csproj": {}
+    "D:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "d:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator\\Calculator.csproj": {
+    "D:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "D:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "d:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator\\Calculator.csproj",
+        "projectPath": "D:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\1000433592.CORP\\.nuget\\packages\\",
-        "outputPath": "d:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator\\obj\\",
+        "outputPath": "D:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\1000433592.CORP\\AppData\\Roaming\\NuGet\\NuGet.Config"
