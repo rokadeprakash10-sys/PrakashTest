@@ -19,7 +19,6 @@ public class Calculator
     {
         if (b == 0)
             throw new DivideByZeroException("Cannot modulo by zero.");
-      //  return a % b;
-        return a 0 b;
+        return a % b;
     }
 }
