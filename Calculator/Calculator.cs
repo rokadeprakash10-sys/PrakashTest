@@ -17,7 +17,7 @@ public class Calculator
 
     public double Modulo(double a, double b)
     {
-        if (b == 0)
+        if (b = 0)
             throw new DivideByZeroException("Cannot modulo by zero.");
         return a % b;
     }

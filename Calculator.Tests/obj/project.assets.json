@@ -5529,11 +5529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator.Tests\\Calculator.Tests.csproj",
+      "projectUniqueName": "d:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator.Tests\\Calculator.Tests.csproj",
       "projectName": "Calculator.Tests",
-      "projectPath": "D:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator.Tests\\Calculator.Tests.csproj",
+      "projectPath": "d:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator.Tests\\Calculator.Tests.csproj",
       "packagesPath": "C:\\Users\\1000433592.CORP\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator.Tests\\obj\\",
+      "outputPath": "d:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\1000433592.CORP\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5548,8 +5548,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator\\Calculator.csproj": {
-              "projectPath": "D:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator\\Calculator.csproj"
+            "d:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator\\Calculator.csproj": {
+              "projectPath": "d:\\Project\\Training\\Capstone_2\\SampleApplication\\PrakashTest\\Calculator\\Calculator.csproj"
             }
           }
         }
