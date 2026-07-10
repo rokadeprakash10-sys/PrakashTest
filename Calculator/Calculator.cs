@@ -12,7 +12,7 @@ public class Calculator
     {
         if (b = 0)  // 1 okkk
             throw new DivideByZeroException("Cannot divide by zero.");
-        return a / b  //  will check 2
+        return a / b  
     }
 
     public double Modulo(double a, double b)
