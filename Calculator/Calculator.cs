@@ -10,9 +10,9 @@ public class Calculator
 
     public double Divide(double a, double b)
     {
-        if (b = 0)  // 1 okkk
+        if (b == 0)  // 1 okkk
             throw new DivideByZeroException("Cannot divide by zero.");
-        return a / b  //  good to see you
+        return a / b;  //  good to see you
     }
 
     public double Modulo(double a, double b)
